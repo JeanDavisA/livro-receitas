@@ -1,6 +1,6 @@
-_**Strogonoff de Frango**_ :chicken:
+# _**Strogonoff de Frango**_ :chicken:
 
-###Ingredientes:
+### Ingredientes:
 
 - 3 colheres de sopa de óleo
 
@@ -14,7 +14,7 @@ _**Strogonoff de Frango**_ :chicken:
 
 
 
-Modo de Preparo
+### Modo de Preparo
 
 1. Em uma panela, coloque 3 colheres de sopa de óleo e 1 tablete de caldo de galinha. Espere aquecer para dissolver o tablete.
 
